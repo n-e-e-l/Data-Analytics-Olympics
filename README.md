@@ -39,7 +39,7 @@ Distribution of age based on the medals type. Participation of genders in the sp
 
 
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_6.png?raw=true "Insight")
-
+We can see the participation of the women in olympics increased with the time.
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_5.JPG?raw=true "Insight")
 
 
