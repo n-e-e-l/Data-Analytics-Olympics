@@ -6,7 +6,7 @@ Enclosed in this folder are all data analytics done on a real-world Olympic data
 Deployed for interactive usage: https://data-analytics-olympics.herokuapp.com/
 
 # Tl;dr
-A project exploring a real Olympic dataset from 1896 to 2016.
+A project exploring a real Olympic dataset from 1896 to 2016.<br />
 Goal: Get detailed insight into the country, sports & Olympic events in an interactive way
 
 # Introduction
