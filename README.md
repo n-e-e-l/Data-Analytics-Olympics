@@ -2,7 +2,7 @@
 
 Olympic Data Analytics Project
 
-Enclosed in this folder are all data analytics done on a real-world Olympic dataset as well as visualizations. 
+Enclosed in this folder are all data analytics done on a real-world Olympic dataset as well as visualizations. <br />
 Deployed for interactive usage: https://data-analytics-olympics.herokuapp.com/
 
 # Tl;dr
