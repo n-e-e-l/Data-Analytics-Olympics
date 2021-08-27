@@ -14,5 +14,6 @@ In this notebook, we will mainly use Pandas and Plotly to generate insights abou
  
  
 # Medal tally
+![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_1.JPG?raw=true "Insight")
 
 
