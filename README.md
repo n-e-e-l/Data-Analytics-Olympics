@@ -14,32 +14,33 @@ In this notebook, we will mainly use Pandas and Plotly to generate insights abou
  
  
 # Olympic Stats 
-Basic Statistcs about olypic events.
+Basic Statistcs about olmypic events.
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_1.JPG?raw=true "Insight")
 
 # Country Wise Analysis
-Medal Tally of the selected country over the years. Followed by a Heatmap highlighting the sports in which the contry excels. Lastly top 10 athlets from the country based on the number of medals won.
+Medal Tally of the selected country over the years. Followed by a Heatmap highlighting the sports in which the contry won medals over the years. Lastly top 10 athlets from the country based on the number of medals won. Medal tally of the country in a particular year.
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_2.JPG?raw=true "Insight")
 
 
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_4.JPG?raw=true "Insight")
 
+
 # Germany excels in the following sports
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_3.png?raw=true "Insight")
 
+![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_7.JPG?raw=true "Insight")
 
-
-# neechu
+# Atheletic Analysis:
+Distribution of age based on the medals type. Participation of genders in the sports over the years. Followed by medal of the particular country. 
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_6.JPG?raw=true "Insight")
 
 
 
 
 
-
+![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_6.png?raw=true "Insight")
 
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_5.JPG?raw=true "Insight")
-![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_7.JPG?raw=true "Insight")
-![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_6.JPG?raw=true "Insight")
+
 
 
