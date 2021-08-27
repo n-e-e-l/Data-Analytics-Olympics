@@ -16,7 +16,8 @@ In this notebook, we will mainly use Pandas and Plotly to generate insights abou
 # Olympic Stats 
 Basic Statistcs about olmypic events.
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_1.JPG?raw=true "Insight")
-
+</br>
+</br>
 # Country Wise Analysis
 Medal Tally of the selected country over the years. Followed by a Heatmap highlighting the sports in which the contry won medals over the years. Lastly top 10 athlets from the country based on the number of medals won. Medal tally of the country in a particular year.
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_2.JPG?raw=true "Insight")
@@ -39,8 +40,8 @@ Distribution of age based on the medals type. Participation of genders in the sp
 
 
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_6.png?raw=true "Insight")
-We can see the participation of the women in olympics increased with the time.
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_5.JPG?raw=true "Insight")
 
+We can see the participation of the women in olympics increased with the time.
 
 
