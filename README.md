@@ -36,8 +36,8 @@ Distribution of age based on the medals type. Participation of genders in the sp
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olmpic_6.JPG?raw=true "Insight")
 
 
-
-
+# Distribution of age for various sports
+The long curve indicate the probability of athlete having a chance to win a medal is quite long as seen in art comptetions which were officially part of olympics from 1912 to 1948 but something like gymastics the age range is qute small hence steep curve can be observed. This also gives insight about how long a athelte career in a sports is usually.
 
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_6.png?raw=true "Insight")
 ![Alt text](https://github.com/n-e-e-l/Data-Analytics-Olympics/blob/main/img/olympic_5.JPG?raw=true "Insight")
